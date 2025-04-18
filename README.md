@@ -13,9 +13,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/kasimajji" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/kasi_majji" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="mailto:kasi.majji24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -23,15 +29,37 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+---
 
-<p align="left">- 🌱 I’m currently learning Generative AI<br>- 👨‍💻 All of my projects are available at https://github.com/kasimajji<br>- 🎓 Master’s in MIS @Northern Illinois University<br>- 💼 Former TCS Employee<br>- 📫 How to reach me kasi.majji24@gmail.com</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-green" alt="Active" />
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-blue" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/ML-Machine_Learning-Lavender" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/AI-AI_agents_+_RAG-purple" alt="AI Agent + Rag" />
+  <img src="https://img.shields.io/badge/Experience-Data_Scientist-orange" alt="Data Scientist" />
+</p>
+
+### 🌱 **Currently Learning**:
+- **Generative AI** 🤖
+
+### 💼 **Experience**:
+- **Former TCS Employee** | **Data Science & Automation**  
+- **Projects**: Available on my [GitHub](https://github.com/kasimajji)
+
+### 🎓 **Education**:
+- **Master's in MIS** @ **Northern Illinois University** 🎓
+
+
+### 💡 **What I Do**:
+- Build **AI**-powered solutions 🧩
+- Optimize **data pipelines** and **automation systems** ⚙️
+- Work with **Python**, **SQL**, and **Machine learning Techniques** 💻
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -63,13 +91,12 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kasimajji&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kasimajji&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimajji/kasimajji/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimajji/kasimajji/output/pacman-contribution-graph.svg">
