@@ -97,10 +97,125 @@
 
 ###
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimajji/kasimajji/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimajji/kasimajji/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kasimajji/kasimajji/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="center">📚 AI & Data Science Project Portfolio</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Regression-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Clustering-KMeans-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/DL-CNN-red?style=flat-square">
+  <img src="https://img.shields.io/badge/RL-DQN-purple?style=flat-square">
+</p>
+
+---
+
+## 📌 Table of Contents
+
+- [1. Machine Learning Projects](#1-machine-learning-projects)
+- [2. Deep Learning (Computer Vision)](#2-deep-learning-computer-vision)
+- [3. Natural Language Processing (NLP)](#3-natural-language-processing-nlp)
+- [4. Generative AI & Multi-Agent Systems](#4-generative-ai--multi-agent-systems)
+- [5. Reinforcement Learning Projects](#5-reinforcement-learning-projects-tested-in-real-world-companies)
+
+---
+
+## 1. Machine Learning Projects
+
+| Project | Objective |
+|--------|-----------|
+| 🏠 **Predicting Housing Prices with Regression Models** | Learn regression (Linear, Tree, RF), feature engineering, and tuning. |
+| 🧍‍♂️ **Customer Segmentation with K-Means** | Understand unsupervised learning, customer profiling, and market segmentation. |
+| 💬 **Sentiment Analysis with Naive Bayes** | Perform text classification using preprocessing and Naive Bayes. |
+| 🚨 **Anomaly Detection for Fraud** | Use Isolation Forest & DBSCAN to detect anomalies in financial data. |
+| 🛠️ **Predictive Maintenance** | Predict equipment failure using RF/XGBoost and sensor data. |
+
+---
+
+## 2. Deep Learning (Computer Vision)
+
+| Project | Objective |
+|--------|-----------|
+| 🖼️ **Image Classification with CNNs** | Build CNNs for MNIST/CIFAR-10, understand filters and pooling. |
+| 🎯 **Object Detection with YOLO** | Real-time object detection using YOLO and bounding boxes. |
+| 🧠 **Facial Recognition System** | Leverage OpenFace/FaceNet for identity recognition and clustering. |
+| 🎨 **Image-to-Image Translation with GANs** | Use GANs for style transfer and realistic image generation. |
+| 🩻 **Medical Imaging Analysis** | Classify/segment X-ray or MRI using deep learning in healthcare. |
+
+---
+
+## 3. Natural Language Processing (NLP)
+
+| Project | Objective |
+|--------|-----------|
+| ✂️ **Text Summarization with Seq2Seq** | Use transformers to summarize large articles. |
+| 🤖 **Chatbot using GPT/BERT** | Build conversational bots with transformer models. |
+| 🏷️ **NER for Information Extraction** | Extract names, locations using CRF or transformer-based NER. |
+| 🌍 **Machine Translation** | Translate between languages using LSTMs or transformers. |
+| 📱 **Social Media Sentiment Analysis** | Analyze customer sentiment on Twitter/Instagram. |
+
+---
+
+## 4. Generative AI & Multi-Agent Systems
+
+| Project | Objective |
+|--------|-----------|
+| 🧠 **Chatbot with Multi-Agent Architecture** | Create agent-based chatbots with specialized tasks. |
+| 🤝 **Autonomous Assistant with RL** | Use reinforcement learning to personalize assistant behavior. |
+| 🎥 **Multi-Modal AI for Video Analysis** | Process audio, video, text for content insights. |
+| 🧬 **Content Generation with GANs** | Generate images, videos, or text using GANs. |
+| 🎯 **Personalized Recommendations with Agents** | Use agents for real-time, tailored suggestions. |
+
+---
+
+## 5. Reinforcement Learning Projects (Tested in Industry)
+
+| Project | Objective |
+|--------|-----------|
+| 🚗 **Self-Driving Car Simulation with DQN** | Teach a car to drive in simulation with Deep Q-Learning. |
+| 💲 **Dynamic Pricing Optimization** | RL for e-commerce pricing based on demand and behavior. |
+| ♟️ **Game AI with AlphaGo-style RL** | Master games like Go or Chess using reinforcement learning. |
+| 🏥 **Healthcare Treatment with RL** | Optimize personalized patient care plans using data. |
+| 🏢 **RPA for Business Optimization** | Automate business tasks using reinforcement learning. |
+
+---
+
+## 🎯 Skills Covered
+
+- Supervised Learning: Regression, Classification, XGBoost
+- Unsupervised Learning: Clustering, Anomaly Detection
+- Deep Learning: CNNs, GANs, YOLO, FaceNet
+- NLP: Transformers, Chatbots, Seq2Seq, NER
+- Reinforcement Learning: DQN, AlphaGo, Policy Optimization
+- Multi-Agent Systems & Generative AI
+
+---
+
+## 🧰 Tools & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit Learn-brightgreen?logo=scikit-learn&style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-purple?logo=opencv&style=flat-square" />
+</p>
+
+---
+
+## 📝 License
+This repository is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Let's Connect!
+
+<a href="https://www.linkedin.com/in/kasimajji/">
+  <img src="https://img.shields.io/badge/LinkedIn-kasimajji-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="mailto:kasi.majji24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kasi.majji24@gmail.com-red?logo=gmail&style=for-the-badge" />
+</a>
+
 
 ###
