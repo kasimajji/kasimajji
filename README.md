@@ -4,23 +4,38 @@
 </h1>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit Learn-brightgreen?logo=scikit-learn&style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-purple?logo=opencv&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Active" />
   <img src="https://img.shields.io/badge/Focus-Generative_AI-blue" alt="Generative AI" />
   <img src="https://img.shields.io/badge/ML-Machine_Learning-Lavender" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/AI-AI_agents_+_RAG-purple" alt="AI Agent + Rag" />
   <img src="https://img.shields.io/badge/Experience-Data_Scientist-orange" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/ML-Regression-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Clustering-KMeans-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/DL-CNN-red?style=flat-square">
+  <img src="https://img.shields.io/badge/RL-DQN-purple?style=flat-square">
 </p>
 
-#### 🌱 **Currently Learning** : **Generative AI** 🤖
+🌱 **Currently Learning:** Generative AI 🤖
 
-#### 💼 **Experience**: **Former TCS Employee** | **Data Science & Automation**  
+💼 **Experience**: Former TCS Employee | Data Science & Automation
 
-#### 🎓 **Education**: **Master's in MIS** @ **Northern Illinois University** 🎓
+🎓 **Education**: Master's in MIS** @ **Northern Illinois University**
 
-#### 💡 **What I Do**:
+💡 **What I Do**:
 - Build **AI**-powered solutions 🧩
-- Optimize **data pipelines** and **automation systems** ⚙️
+- Optimize **ML pipelines** and **automation systems** ⚙️
 - Work with **Python**, **SQL**, and **Machine learning Techniques** 💻
+
+**Beyond The Work**: I'm deeply passionate about 🐶 dogs, and I find balance through sports like cricket and table tennis. I'm also constantly exploring the evolving world of AI research, generative models, and what's next in the ML landscape.
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
@@ -51,17 +66,8 @@
 
 
 ---
-<h1 align="center">📚 AI & Data Science Project Portfolio</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-Regression-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Clustering-KMeans-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/DL-CNN-red?style=flat-square">
-  <img src="https://img.shields.io/badge/RL-DQN-purple?style=flat-square">
-</p>
+<h2 align="left">📚 AI & Data Science Project Portfolio</h2>
 
-
-## Machine Learning Projects
 
 | Project | Objective |
 |--------|-----------|
@@ -72,7 +78,7 @@
 | 🛠️ **Insurance_Price_Estimator** | Predict health insurance premiums based on personal and health-related factors using RF/XGBoost. |
 
 
-## 🎯 Skills
+### 🎯 Skills
 
 - Supervised Learning: Regression, Classification, XGBoost
 - Unsupervised Learning: Clustering, Anomaly Detection
@@ -81,24 +87,11 @@
 - Reinforcement Learning: DQN, AlphaGo, Policy Optimization
 - Multi-Agent Systems & Generative AI
 
-
-## 🧰 Tools & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit Learn-brightgreen?logo=scikit-learn&style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-purple?logo=opencv&style=flat-square" />
-</p>
-
-
-## 📝 License
+### 📝 License
 This repository is open-source and available under the [MIT License](LICENSE).
 
 
-## 🙌 Let's Connect!
+### 🙌 Let's Connect!
 
 <a href="https://www.linkedin.com/in/kasimajji/">
   <img src="https://img.shields.io/badge/LinkedIn-kasimajji-blue?logo=linkedin&style=for-the-badge" />
