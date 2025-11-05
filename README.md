@@ -24,8 +24,6 @@
 
 🌱 **Currently Learning:** Generative AI 🤖
 
-💼 **Experience**: Former TCS Employee | Data Science & Automation
-
 🎓 **Education**: Master's in MIS** @ **Northern Illinois University**
 
 💡 **What I Do**:
